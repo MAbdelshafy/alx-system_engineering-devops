@@ -1,0 +1,2 @@
+#!/bin/bash Hello you
+echo "hello $(whoami)" Hello you
